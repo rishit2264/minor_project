@@ -1,3 +1,5 @@
 {
-  "rishit": "embeddings\\rishit.npy"
+  "rishit": "embeddings\\rishit.npy",
+  "srijan": "embeddings/srijan.npy",
+  "aditya": "85f4751825c3f24c6d49b919eefd12ff7ecc87c470d226588b66f8ff600cdbd3"
 }
